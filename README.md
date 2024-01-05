@@ -25,6 +25,15 @@ While I am in the early stages of my academic journey, I have started developing
 - Analytical thinking
 - Time management
 
+## Winter Project 2023
+During the winter of 2023, I had the opportunity to engage in a data science project. The project focused on [brief description of the project]. This experience allowed me to apply theoretical knowledge to real-world data challenges, enhancing my understanding of data science concepts.
+
+**Key Achievements:**
+- [Achievement 1]
+- [Achievement 2]
+- [Achievement 3]
+
+
 ## Interests
 Some of my interests include:
 
