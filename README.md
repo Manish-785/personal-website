@@ -48,5 +48,9 @@ Feel free to connect with me! You can reach out via email at [msn07082005@gmail.
 I appreciate your interest in my personal website! As I continue my academic journey, stay tuned for updates on my projects and achievements.
 
 ---
+## Shoutouts
+- Image by imagedelivery.net : instagram logo
+- Image by pngtree.com : linkedin logo
+- Image by github.com : github logo
 
 Thank you for visiting! 🚀
