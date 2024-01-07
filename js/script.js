@@ -1,6 +1,6 @@
-const blocks=document.querySelectorAll('.block')
-
-blocks.forEach(block => {
-    block.addEventListener('mouseover',function(){this.classList.add('hovered')})
-    block.addEventListener('mouseout',function(){this.classList.remove('hovered')})
-});
+const hobbies = document.querySelectorAll('.hobby');
+for(let i=0;i<hobbies.length;++i){
+    hobbies[i].addEventListener('mouseover',function(){
+        this.classList.add('hovered');})
+    hobbies[i].addEventListener('mouseout',function(){this.classList.remove('hovered');})
+}
