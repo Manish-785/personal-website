@@ -10,5 +10,5 @@ const button = document.querySelector('#click');
 let userInput;
 button.addEventListener('click',function () {
     userInput=document.querySelector('#userInput').value;
-    alert(userInput);
+    alert(`Your review is: ${userInput}`);
 })
